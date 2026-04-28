@@ -17,7 +17,7 @@ from sklearn.neural_network import MLPClassifier
 st.set_page_config(page_title="Diamond Analytics Pro", layout="wide", page_icon="💎")
 st.title("💎 Advanced Lab-Grown Diamond Analytics")
 st.markdown("*CIA 3 Financial Analytics Project | Predictive Customer Behavior & Revenue Modeling*")
-st.markdown("**Project Team:** Harsha Vardhan K S (2323213) | Thribhuvan S (2323242) | Ishayu Bannerjee (2323214)")
+st.markdown("**Analysed By:** Harsha Vardhan K S (2323213)")
 st.markdown("---")
 
 # --- DATA LOADING & PREP ---
